@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is r3 at working location
+=======
+this is r3 at stagging location
+>>>>>>> newfeature
